@@ -23,7 +23,7 @@ The objective of this project is to perform black box optimization using machine
 - In some cases, the function is not at all available in the algebraic form though we have access to function output on providing it some input (Example – Aspen process simulation)
 
 
-![blackbox_Ms.png](attachment:blackbox_Ms.png)
+![blackbox_Ms.png](/MS_Images/blackbox_Ms.png)
 
 ## Approach
 
@@ -32,7 +32,7 @@ until we have reached a stopping criteria or have achieved convergence.
 
 Using different combination of sampling methods, sampling region and the update rules gives us different final results. In this project, I experimented with five different sampling methods and three different methods for region selection, namely global optimization method, trust-region method and cyclic coordinate search method. For developing surrogate model, Machine learning regression methods from Sci-kit learn packages are used. 
 
-![appraoch_Ms.png](attachment:appraoch_Ms.png)
+![appraoch_Ms.png](/MS_Images/appraoch_Ms.png)
 
 ## Problem Set
 
